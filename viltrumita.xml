@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Viltrumita</name>
+	</info>
+
+	<element name="Viltrumita" type="Race" source="homebrew" id="ID_RACE_VILTRUMITA">
+		<description>
+			<p class="flavor">"¿Por qué me hiciste hacer esto? ¡Luchas para ver morir a todos a tu alrededor! ¡Piensa, Mark! Sobrevivirás a cada ser frágil e insignificante de este planeta. ¡Vivirás para ver este mundo desmoronarse y desaparecer! ¡Todos y cada uno de tus conocidos desaparecerán! ¿Qué te quedará después de 500 años?"
+
+-Omni Man. Invincible</p>
+			<h4>DESCRIPCIÓN FÍSICA</h4>
+			<p>Los viltrumitas parecen humanos normales a simple vista, sin forma de diferenciarse de un humano a simple vista. Los viltrumitas tienen una gran variedad de colores de piel, alturas y pesos. Aparte de su habilidades y cultura inhumanas, los viltrumitas no se diferencian de los habitantes de la Tierra.</p>
+			<h4>HISTORIA</h4>
+			<p>Los viltrumitas aspiraban a lograr la civilización perfecta y, según sus creencias, la mejor manera de lograrlo era expulsar a los débiles de su raza. Este ideal inició una guerra entre todos los viltrumitas para luchar entre sí hasta que solo quedaran los más fuertes. Esto demostraría que los que sobrevivieran serían los mejores de los mejores. Aunque la población viltrumita se redujo a la mitad, se consideró que esta era la mejor opción. Tras este suceso, los viltrumitas comenzaron a preparar la conquista de otros planetas para construir el imperio viltrumita.<p>
+			<h4>SOCIEDAD</h4>
+			<p>No existe un viltrumita débil; incluso cuando sus poderes apenas se manifiestan, los viltrumitas siempre han sido los depredadores supremos. Los viltrumitas nacen sin poderes al principio, pero los adquieren de forma natural más adelante en la vida; incluso los más jóvenes los obtienen a los 16 años. Si algún viltrumita no tuviera el poder esperado, moriría, ya sea ejecutado por alguien de su propia raza o aniquilado por un gobierno, una criatura que teme en qué podría convertirse. Los viltrumitas se consideran una seria amenaza para cualquier planeta o raza cercana, y con razón.<p>
+			<h4>Nombres viltrumitas</h4>
+			<p>Los nombres de los viltrumitas no difieren mucho de los de los humanos. Sin embargo, debido a su inmensa fuerza, sus títulos a menudo reflejan su fuerza, comd Invencible, Omni-man, Conquista, etc.</p>
+			<h4>RASGOS VILTRUMITAS</h4>
+			<p>Al ser una raza alienigena, los viltrumistas tienen rasgos caracteristicos</p>
+			<p class="indent"><strong><em>Aumento de Puntuación de Característica.</em></strong> Tu puntuación de Constitución aumenta en 2, mientras que tu puntuación de Fuerza aumenta en 1.</p>
+			<p class="indent"><strong><em>Edad.</em></strong> Los viltrumitas maduran a los 18 años, pero envejecen tamente al envejecer. Esto significa que viven hasta miles de años.</p>
+			<p class="indent"><strong><em>Alineamitento.</em></strong> Debido a una mentalidad casi sectaria, los viltrumitas son mayoritariamente neutrales al caótico. Sin embargo, se ha demostrado que algunos viltrumitas están dispuestos a cambia y. por lo tanto, podrían tener alineamientos.</p>
+			<p class="indent"><strong><em>Tamaño.</em></strong> Tamaño medio a grande.</p>
+			<p class="indent"><strong><em>Velocidad.</em></strong> Tu velocidad base al caminar es de 20</p>
+			<p class="indent"><strong><em>Super Fuerza.</em></strong> Cuando realizas una tirada de salvación de Fuerza o una prueba de característica, puedes reacción para tirar un d4 y sumar el esulta tirada de salvación o prueba de característica. Además, tu tamaño cuenta como mavor u capacidad de carga y el peso que puedes empujar, arrastrar o levantar.</p>
+			<p class="indent"><strong><em>Dureza Viltrumita.</em></strong> Tus puntos de vida máximos aumentan en 1, y se incrementan en 1 cada vez que subes de nivel.</p>
+			<p class="indent"><strong><em>Cuerpo perfecto, orejas imperfectas.</em></strong> Los viltrumitas pueden ser los depredadores más fuertes, pero también tienen sus debilidades. Como sus oídos se alteran fácilmente con la frecuencia, eres vulnerable al daño por trueno.</p>
+			<p class="indent"><strong><em>Respiración.</em></strong> Puedes contener la Respiración hasta 1 hora</p>
+			<p class="indent"><strong><em>Vuelo.</em></strong> Tienes una velocidad de vuelo igual a tu velocidad al caminar. No puedes usar esta velocidad de vuelo si llevas armadura media o pesada.</p>
+			<p class="indent"><strong><em>Golpe Viltrumita.</em></strong>  Tus golpes sin armas infligen 1d4 de daño contundente.</p>
+			<p class="indent"><strong><em>Idiomas.</em></strong> Puedes hablar, leer y escribir común y otro idioma de tu elección.</p>
+		</description>
+		<sheet display="false" />
+		<setters>
+			<set name="names" type="male">Adran, Aelar, Aramil, Arannis, Aust, Beiro, Berrian, Carric, Enialis, Erdan, Erevan, Galinndan, Hadarai, Heian, Himo, Immeral, Ivellios, Laucian, Mindartis, Paelias, Peren, Quarion, Riardon, Rolen, Soveliss, Thamior, Tharivol, Theren, Varis</set>
+			<set name="names" type="female">Adrie, Althaea, Anastrianna, Andraste, Antinua, Bethrynna, Birel, Caelynn, Drusilia, Enna, Felosial, Ielenia, Jelenneth, Keyleth, Leshanna, Lia, Meriele, Mialee, Naivara, Quelenna, Quillathe, Sariel, Shanairra, Shava, Silaqui, Theirastra, Thia, Vadania, Valanthe, Xanaphia</set>
+			<set name="names" type="child">Ara, Bryn, Del, Eryn, Faen, Innil. Lael, Mella, Naill, Naeris, Phann, Rael, Rinn, Sai, Syllin, Thia, Vall</set>
+			<set name="names" type="family">Amakiir, Amastacia, Galanodel, Holimion, Ilphelkiir, Liadon, Meliamne, Nai'lo, Siannodel, Xiloscient</set>
+			<set name="names-format">{{name}} {{family}}</set>
+			<set name="height" modifier="2d10">4'6"</set>
+			<set name="weight" modifier="1d4">90 lb.</set>
+		</setters>
+		<rules>
+			<stat name="dexterity" value="2" requirements="!ID_UA_PSK_GRANTS_ELF_SUBRACE" />
+			<stat name="innate speed" value="30" bonus="base" />
+			<grant type="Size" id="ID_SIZE_MEDIUM" />
+			<grant type="Vision" id="ID_VISION_DARKVISION" />
+			<grant type="Language" id="ID_LANGUAGE_COMMON" requirements="!ID_WOTC_UA20171113_SUB_RACE_GRUGACH" />
+			<grant type="Language" id="ID_LANGUAGE_ELVISH" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_KEEN_SENSES" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_FEY_ANCESTRY" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_TRANCE" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_ELVEN_SUBRACE" />
+		</rules>
+	</element>
+	<element name="Keen Senses" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_KEEN_SENSES">
+		<description>
+			<p>You have proficiency in the Perception skill.</p>
+		</description>
+		<sheet display="false">
+			<description>You have proficiency in the Perception skill.</description>
+		</sheet>
+		<rules>
+			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_PERCEPTION" />
+		</rules>
+	</element>
+	<element name="Fey Ancestry" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_FEY_ANCESTRY">
+		<description>
+			<p>You have advantage on saving throws against being charmed, and magic can’t put you to sleep.</p>
+		</description>
+		<sheet>
+			<description>Advantage on saving throws against being charmed, and magic can’t put you to sleep.</description>
+		</sheet>
+	</element>
+	<element name="Trance" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_TRANCE">
+		<description>
+			<p>Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is “trance.”) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.</p>
+		</description>
+		<sheet>
+			<description>Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day.</description>
+		</sheet>
+	</element>
+	<element name="Elven Subrace" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_ELVEN_SUBRACE">
+		<description>
+			<p>Ancient divides among the elven people resulted in three main subraces: high elves, wood elves, and dark elves, who are commonly called drow. Choose one of these subraces. In some worlds, these subraces are divided still further (such as the sun elves and moon elves of the Forgotten Realms), so if you wish, you can choose a narrower subrace.</p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<select type="Sub Race" name="Elven Subrace" supports="Elf" />
+		</rules>
+	</element>
+
+	<element name="High Elf" type="Sub Race" source="Player’s Handbook" id="ID_SUB_RACE_HIGH_ELF">
+		<supports>Elf</supports>
+		<description>
+			<p>As a high elf, you have a keen mind and a mastery of at least the basics of magic. In many of the worlds of D&amp;D, there are two kinds of high elves. One type (which includes the gray elves and valley elves of Greyhawk, the Silvanesti of Dragonlance, and the sun elves of the Forgotten Realms) is haughty and reclusive, believing themselves to be superior to non-elves and even other elves. The other type (including the high elves of Greyhawk. the Qualinesti of Dragonlance, and the moon elves of the Forgotten Realms) are more common and more friendly, and often encountered among humans and other races. The sun elves of Faerûn (also called gold elves or sunrise elves) have bronze skin and hair of copper, black, or golden blond. Their eyes are golden, silver, or black. Moon elves (also called silver elves or gray elves) are much paler, with alabaster skin sometimes tinged with blue. They often have hair of silver-white, black, or blue, but various shades of blond, brown, and red are not uncommon. Their eyes are blue or green and flecked with gold.</p>
+			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Intelligence score increases by 1.</p>
+			<p class="indent"><strong><em>Elf Weapon Training.</em></strong> You have proficiency with the longsword, shortsword, shortbow, and longbow.</p>
+			<p class="indent"><strong><em>Cantrip.</em></strong> You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.</p>
+			<p class="indent"><strong><em>Extra Language.</em></strong> You can speak, read, and write one extra language of your choice.</p>
+		</description>
+		<sheet display="false" />
+		<setters>
+			<set name="height" modifier="2d10">4'6"</set>
+			<set name="weight" modifier="1d4">90 lb.</set>
+		</setters>
+		<rules>
+			<stat name="intelligence" value="1" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_ELF_WEAPON_TRAINING" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_CANTRIP" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_EXTRA_LANGUAGE" />
+		</rules>
+	</element> 	
+	<element name="Elf Weapon Training" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_ELF_WEAPON_TRAINING">
+		<description>
+			<p>You have proficiency with the longsword, shortsword, shortbow, and longbow.</p>
+		</description>
+		<sheet display="false">
+			<description>You have proficiency with the longsword, shortsword, shortbow, and longbow.</description>
+		</sheet>
+		<rules>
+			<grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_LONGSWORD" />
+			<grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_SHORTSWORD" />
+			<grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_SHORTBOW" />
+			<grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_LONGBOW" />
+		</rules>
+	</element>
+	<element name="Cantrip" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_CANTRIP">
+		<description>
+			<p>You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.</p>
+		</description>
+		<sheet display="false">
+			<description>You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.</description>
+		</sheet>
+		<rules>
+			<select type="Spell" name="Wizard Cantrip (High Elf)" supports="Wizard&amp;&amp;0" />
+		</rules>
+	</element>
+	<element name="Extra Language" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_EXTRA_LANGUAGE">
+		<description>
+			<p>You can speak, read, and write one extra language of your choice.</p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<select type="Language" name="Language (Elf)" supports="Standard||Exotic" />
+		</rules>
+	</element>
+
+	<element name="Wood Elf" type="Sub Race" source="Player’s Handbook" id="ID_SUB_RACE_WOOD_ELF">
+		<supports>Elf</supports>
+		<description>
+			<p>As a wood elf, you have keen senses and intuition, and your fleet feet carry you quickly and stealthily through your native forests. This category includes the wild elves (grugach) of Greyhawk and the Kagonesti of Dragonlance, as well as the races called wood elves in Greyhawk and the Forgotten Realms. In Faerûn, wood elves (also called wild elves, green elves, or forest elves) are reclusive and distrusting of non-elves. Wood elves’ skin tends to be copperish in hue, sometimes with traces of green. Their hair tends toward browns and blacks, but it is occasionally blond or copper-colored. Their eyes are green, brown, or hazel.</p>
+			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Wisdom score increases by 1.</p>
+			<p class="indent"><strong><em>Elf Weapon Training.</em></strong> You have proficiency with the longsword, shortsword, shortbow, and longbow.</p>
+			<p class="indent"><strong><em>Fleet of Foot.</em></strong> Your base walking speed increases to 35 feet.</p>
+			<p class="indent"><strong><em>Mask of the Wild.</em></strong> You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
+		</description>
+		<sheet display="false" />
+		<setters>
+			<set name="height" modifier="2d10">4'6"</set>
+			<set name="weight" modifier="1d4">100 lb.</set>
+		</setters>
+		<rules>
+			<stat name="wisdom" value="1" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_ELF_WEAPON_TRAINING" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_FLEET_OF_FOOT" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_MASK_OF_THE_WILD" />
+		</rules>
+	</element>
+	<element name="Fleet of Foot" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_FLEET_OF_FOOT">
+		<description>
+			<p>Your base walking speed increases to 35 feet.</p>
+		</description>
+		<sheet display="false">
+			<description>Your speed increases to 35 feet.</description>
+		</sheet>
+		<rules>
+			<stat name="innate speed" value="35" bonus="base" />
+		</rules>
+	</element>
+	<element name="Mask of the Wild" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_MASK_OF_THE_WILD">
+		<description>
+			<p>You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
+		</description>
+		<sheet>
+			<description>You can attempt to hide even when you are only lightly obscured.</description>
+		</sheet>
+	</element>
+
+	<element name="Dark Elf" type="Sub Race" source="Player’s Handbook" id="ID_SUB_RACE_DARK_ELF">
+		<supports>Elf</supports>
+		<description>
+			<p>Descended from an earlier subrace of dark-skinned elves, the drow were banished from the surface world for following the goddess Lolth down the path to evil and corruption. Now they have built their own civilization in the depths of the Underdark, patterned after the Way of Lolth. Also called dark elves, the drow have black skin that resembles polished obsidian and stark white or pale yellow hair. They commonly have very pale eyes (so pale as to be mistaken for white) in shades of lilac, silver, pink, red, and blue. They tend to be smaller and thinner than most elves.</p>
+			<p class="indent">Drow adventurers are rare, and the race does not exist in all worlds. Check with your Dungeon Master to see if you can play a drow character.</p>
+			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Charisma score increases by 1.</p>
+			<p class="indent"><strong><em>Superior Darkvision.</em></strong> Your darkvision has a radius of 120 feet.</p>
+			<p class="indent"><strong><em>Sunlight Sensitivity.</em></strong> You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.</p>
+			<p class="indent"><strong><em>Drow Magic.</em></strong> You know the dancing lights cantrip. When you reach 3rd level, you can cast the faerie fire spell once per day. When you reach 5th level, you can also cast the darkness spell once per day. Charisma is your spellcasting ability for these spells.</p>
+			<p class="indent"><strong><em>Drow Weapon Training.</em></strong> You have proficiency with rapiers, shortswords, and hand crossbows.</p>
+		</description>
+		<sheet display="false" />
+		<setters>
+			<set name="height" modifier="2d6">4'5"</set>
+			<set name="weight" modifier="1d6">75 lb.</set>
+		</setters>
+		<rules>
+			<stat name="charisma" value="1" />
+			<grant type="Vision" id="ID_VISION_SUPERIORDARKVISION" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_SUNLIGHT_SENSITIVITY" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_DROW_MAGIC" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_DROW_WEAPON_TRAINING" />
+		</rules>
+	</element>
+	<element name="Sunlight Sensitivity" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_SUNLIGHT_SENSITIVITY">
+		<description>
+			<p>You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.</p>
+		</description>
+		<sheet>
+			<description>You have disadvantage on attack rolls and on Perception checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.</description>
+		</sheet>
+	</element>
+	<element name="Drow Magic" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_DROW_MAGIC">
+		<description>
+			<p>You know the <em>dancing lights</em> cantrip. When you reach 3rd level, you can cast the faerie fire spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can also cast the darkness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</p>
+		</description>
+		<sheet>
+			<description>You know the dancing lights cantrip. (Charisma)</description>
+			<description level="3">You know the dancing lights cantrip. You can cast Faerie Fire 1/long rest. (Charisma)</description>
+			<description level="5">You know the dancing lights cantrip. You can cast Faerie Fire and Darkness 1/long rest. (Charisma)</description>
+		</sheet>
+		<rules>
+			<grant type="Spell" id="ID_PHB_SPELL_DANCING_LIGHTS" level="1" />
+			<grant type="Spell" id="ID_PHB_SPELL_FAERIE_FIRE" level="3" />
+			<grant type="Spell" id="ID_PHB_SPELL_DARKNESS" level="5" />
+		</rules>
+	</element>
+	<element name="Drow Weapon Training" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_DROW_WEAPON_TRAINING">
+		<description>
+			<p>You have proficiency with rapiers, shortswords, and hand crossbows.</p>
+		</description>
+		<sheet display="false">
+			<description>You have proficiency with rapiers, shortswords, and hand crossbows.</description>
+		</sheet>
+		<rules>
+			<grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_RAPIER" />
+			<grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_SHORTSWORD" />
+			<grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_CROSSBOW_HAND" />
+		</rules>
+	</element>
+</elements>

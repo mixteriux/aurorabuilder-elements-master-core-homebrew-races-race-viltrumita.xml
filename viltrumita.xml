@@ -2,6 +2,8 @@
 <elements>
 	<info>
 		<name>Viltrumita</name>
+		    <file name="viltrumita.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/players-handbook/races/race-elf.xml" />
+		</update>
 	</info>
 
 	<element name="Viltrumita" type="Race" source="homebrew" id="ID_RACE_VILTRUMITA">
